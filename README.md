@@ -15,5 +15,17 @@
 - [**Vite**](https://vitejs.dev/)
 - [**Figma**](https://www.figma.com)
 
+### ⚙️ Como instalar o projeto em minha máquina ?
+- Clone e acesse a pasta do projeto:
+```bash
+$ git clone https://github.com/LucasBrito794/Spotify_Web_Clone_Atual.git
+$ cd Spotify_Web_Clone_Atual
+```
+- Instale as dependências e rode o projeto:
+```bash
+$ npm i
+$ npm run dev
+```
+
 ### 🎯 Imagem do Projeto
 ![web_site](https://github.com/LucasBrito794/Spotify_Web_Clone_Atual/assets/78000311/d2969814-a221-42b9-97df-6d5c332accdf)
